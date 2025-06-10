@@ -41,33 +41,9 @@
         "type": 101
     },
     {
-        "name": "[嗅]泥视频",
-        "api": "https://gh-proxy.com/https://zyou.pages.dev/CC/呢.js",
-        "webSite": "https://www.nivod.vip",
-        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
-        "version": "1",
-        "type": 101
-    },
-    {
-        "name": "[嗅]海纳TV",
-        "api": "https://gh-proxy.com/https://zyou.pages.dev/CC/海纳.js",
-        "webSite": "https://www.hainatv.net",
-        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
-        "version": "1",
-        "type": 101
-    },
-    {
         "name": "[嗅]影视工厂",
         "api": "https://gh-proxy.com/https://raw.githubusercontent.com/Czyou201314/Zyou/8e96e0fb3e8542cf8da30843365981e766e82b7e/CC/%E5%B7%A5%E5%8E%82.js",
         "webSite": "https://www.ysgc.fun",
-        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
-        "version": "1",
-        "type": 101
-    },
-    {
-        "name": "[嗅]老王电影",
-        "api": "https://gh-proxy.com/https://zyou.pages.dev/CC/老王.js",
-        "webSite": "https://laowang.co",
         "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
         "version": "1",
         "type": 101
@@ -100,14 +76,6 @@
         "name": "[嗅]新视觉影院",
         "api": "https://gh-proxy.com/https://raw.githubusercontent.com/Czyou201314/Zyou/8e96e0fb3e8542cf8da30843365981e766e82b7e/CC/%E6%96%B0%E8%A7%86%E8%A7%89%E5%BD%B1%E8%A7%86.js",
         "webSite": "https://www.sypfjy.com",
-        "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
-        "version": "1",
-        "type": 101
-    },
-    {
-        "name": "大师兄影视",
-        "api": "https://gh-proxy.com/https://raw.githubusercontent.com/281536012/281536012.github.io/39976b6700cb05888e0224fe28238eb4b3c9c93d/%E5%A4%A7%E5%B8%88%E5%85%84%E5%BD%B1%E8%A7%86.js",
-        "webSite": "https://dsxys.pro",
         "remark": "v1.6.53 及以上版本可用\n播放/获取失败请关闭多线程,开/关代理重试",
         "version": "1",
         "type": 101
